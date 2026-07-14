@@ -13,7 +13,7 @@
         'toad':  'imagenes/Toad.jpg',
         'peach':  'imagenes/Peach.jpg',
         'yoshi':  'imagenes/Yoshi.jpg',
-        'luigi':  'imagenes/luigi.jpg',
+        'luigi':  'imagenes/Luigi.jpg',
 
 
     };
